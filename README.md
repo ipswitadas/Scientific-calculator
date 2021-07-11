@@ -1,1 +1,2 @@
-# Scientific-calculator-
+# Scientific-calculator-🦄🔮
+Its actually my school's math project....
