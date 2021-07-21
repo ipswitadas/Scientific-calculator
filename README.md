@@ -1,2 +1,3 @@
 # Scientific-calculator-🦄🔮
 Its actually my school's math project....
+![image](https://user-images.githubusercontent.com/73473690/126503355-169d1890-689a-4f97-9136-ac533404d1c6.png)
